@@ -1,0 +1,8 @@
+aardvark
+badger
+capybara
+dingo
+elephant
+ferret
+goat
+horse
