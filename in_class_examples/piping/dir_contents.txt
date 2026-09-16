@@ -1,0 +1,65 @@
+total 84
+drwxrwxr-x 2 austin austin  4096 Sep 14 11:29 .
+drwxrwxr-x 7 austin austin  4096 Sep 14 09:51 ..
+-rw-rw-r-- 1 austin austin 44030 Sep 14 09:51 all_pokemon.csv
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:29 dir_contents.txt
+-rw-rw-r-- 1 austin austin   317 Sep 14 11:25 errors.txt
+-rw-rw-r-- 1 austin austin    42 Sep 14 11:24 file_io.py
+-rw-rw-r-- 1 austin austin    35 Sep 14 10:28 input_test.py
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:24 in.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:25 output.txt
+-rw-rw-r-- 1 austin austin    43 Sep 14 11:20 py_test.py
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:17 sorted.txt
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:15 source.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 10:22 test2.txt
+-rw-rw-r-- 1 austin austin    36 Sep 14 10:26 test.py
+-rw-rw-r-- 1 austin austin    47 Sep 14 10:21 test.txt
+total 88
+drwxrwxr-x 2 austin austin  4096 Sep 14 11:29 .
+drwxrwxr-x 7 austin austin  4096 Sep 14 09:51 ..
+-rw-rw-r-- 1 austin austin 44030 Sep 14 09:51 all_pokemon.csv
+-rw-rw-r-- 1 austin austin   851 Sep 14 11:29 dir_contents.txt
+-rw-rw-r-- 1 austin austin   317 Sep 14 11:25 errors.txt
+-rw-rw-r-- 1 austin austin    42 Sep 14 11:24 file_io.py
+-rw-rw-r-- 1 austin austin    35 Sep 14 10:28 input_test.py
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:24 in.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:25 output.txt
+-rw-rw-r-- 1 austin austin    43 Sep 14 11:20 py_test.py
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:17 sorted.txt
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:15 source.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 10:22 test2.txt
+-rw-rw-r-- 1 austin austin    36 Sep 14 10:26 test.py
+-rw-rw-r-- 1 austin austin    47 Sep 14 10:21 test.txt
+total 88
+drwxrwxr-x 2 austin austin  4096 Sep 14 11:29 .
+drwxrwxr-x 7 austin austin  4096 Sep 14 09:51 ..
+-rw-rw-r-- 1 austin austin 44030 Sep 14 09:51 all_pokemon.csv
+-rw-rw-r-- 1 austin austin  1702 Sep 14 11:29 dir_contents.txt
+-rw-rw-r-- 1 austin austin   317 Sep 14 11:25 errors.txt
+-rw-rw-r-- 1 austin austin    42 Sep 14 11:24 file_io.py
+-rw-rw-r-- 1 austin austin    35 Sep 14 10:28 input_test.py
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:24 in.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:25 output.txt
+-rw-rw-r-- 1 austin austin    43 Sep 14 11:20 py_test.py
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:17 sorted.txt
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:15 source.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 10:22 test2.txt
+-rw-rw-r-- 1 austin austin    36 Sep 14 10:26 test.py
+-rw-rw-r-- 1 austin austin    47 Sep 14 10:21 test.txt
+total 88
+drwxrwxr-x 2 austin austin  4096 Sep 14 11:29 .
+drwxrwxr-x 7 austin austin  4096 Sep 14 09:51 ..
+-rw-rw-r-- 1 austin austin 44030 Sep 14 09:51 all_pokemon.csv
+-rw-rw-r-- 1 austin austin  2553 Sep 14 11:29 dir_contents.txt
+-rw-rw-r-- 1 austin austin   317 Sep 14 11:25 errors.txt
+-rw-rw-r-- 1 austin austin    42 Sep 14 11:24 file_io.py
+-rw-rw-r-- 1 austin austin    35 Sep 14 10:28 input_test.py
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:24 in.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 11:25 output.txt
+-rw-rw-r-- 1 austin austin    43 Sep 14 11:20 py_test.py
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:17 sorted.txt
+-rw-rw-r-- 1 austin austin    20 Sep 14 10:15 source.txt
+-rw-rw-r-- 1 austin austin     0 Sep 14 10:22 test2.txt
+-rw-rw-r-- 1 austin austin    36 Sep 14 10:26 test.py
+-rw-rw-r-- 1 austin austin    47 Sep 14 10:21 test.txt
+file.read('ajsdhfalksdfhj.txt','r')

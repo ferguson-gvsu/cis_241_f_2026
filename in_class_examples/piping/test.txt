@@ -1,0 +1,4 @@
+all_pokemon.csv
+sorted.txt
+source.txt
+test.txt

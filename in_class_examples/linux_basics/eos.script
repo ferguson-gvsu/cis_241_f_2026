@@ -1,0 +1,67 @@
+Script started on 2026-09-11 11:23:45-04:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="49" LINES="20"]
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[00m$ ls
+[?2004lanimals_2.txt       lines.txt
+animals_3.txt       README.md
+animals_4.txt       [0m[01;34msection_2[0m
+animals_5.txt       sorted.txt
+animals.txt         [01;34mtest[0m
+eos.script          tmp.py
+fish.csv            [01;32mturtle_downloader.sh[0m
+[01;32mfish_downloader.sh[0m  turtles.csv
+history.txt         typescript
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[00m$ ssh eos01
+[?2004lWelcome to Ubuntu 24.04.4 LTS (GNU/Linux 7.0.0-29-generic x86_64)
+
+ System information as of Fri Sep 11 11:23:50 AM EDT 2026
+
+  System load:  0.07               Temperature:             126.0 C
+  Usage of /:   63.0% of 97.87GB   Processes:               337
+  Memory usage: 23%                Users logged in:         1
+  Swap usage:   0%                 IPv4 address for enp1s0: 35.39.29.66
+ ______ ____   _____   _           _
+|  ____/ __ \ / ____| | |         | |
+| |__ | |  | | (___   | |     __ _| |__
+|  __|| |  | |\___ \  | |    / _` | '_ \
+| |___| |__| |____) | | |___| (_| | |_) |
+|______\____/|_____/  |______\__,_|_.__/
+[01;32m----------------------------------------------------------------------
+  [0m Contact HPC Support for help/questions
+  [0m         [01;36mE-Mail       [01;32m:[0m arcit@gvsu.edu
+[01;32m----------------------------------------------------------------------
+[0m
+
+2 devices have a firmware upgrade available.
+Run `fwupdmgr get-upgrades` for more information.
+
+Last login: Fri Sep 11 11:15:24 2026 from 148.61.92.112
+[?2004h]0;ferguaus@eos01: ~[01;32mferguaus@eos01[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34m2024_f[0m                index.js
+[01;34m2025_w[0m                local_file.txt
+[01;34m2026_f[0m                [01;34mMusic[0m
+[01;34m2026_w[0m                [01;32mout.txt[0m
+another_one.txt       [01;34mPictures[0m
+a.txt                 [01;34mPublic[0m
+[01;34mcheck_ins[0m             safe.csv
+[01;34mctf[0m                   section_02.txt
+c.txt                 [01;34msnap[0m
+[01;34mDesktop[0m               [01;34mTemplates[0m
+[01;34mDocuments[0m             [01;34mtest[0m
+[01;34mDownloads[0m             test.txt
+[01;34mexample_dir[0m           [37;44mthinclient_drives[0m
+file_from_laptop.txt  THIS_IS_A_TEST.txt
+[01;34mfileshare[0m             [01;34mtmp[0m
+hi.txt                [01;34mVideos[0m
+[?2004h]0;ferguaus@eos01: ~[01;32mferguaus@eos01[00m:[01;34m~[00m$ cat fiu[Kle
+[?2004lcat: file: No such file or directory
+[?2004h]0;ferguaus@eos01: ~[01;32mferguaus@eos01[00m:[01;34m~[00m$ cat file_from_laptop.txt 
+[?2004lThis file was made on my laptop!
+:^)
+[?2004h]0;ferguaus@eos01: ~[01;32mferguaus@eos01[00m:[01;34m~[00m$ cat Th[K[Khe[K[K[K[K[K[Khead THIS_IS_A_TEST.txt 
+[?2004lHello!
+[?2004h]0;ferguaus@eos01: ~[01;32mferguaus@eos01[00m:[01;34m~[00m$ exit
+[?2004llogout
+Connection to eos01.cis.gvsu.edu closed.
+[?2004h]0;austin@pop-os: /media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[01;32maustin@pop-os[00m:[01;34m/media/austin/samsung_nvme_pop/teaching/gvsu/04_fall_2026/cis_241_f2026/git_public/in_class_examples/linux_basics[00m$ exit
+[?2004lexit
+
+Script done on 2026-09-11 11:24:13-04:00 [COMMAND_EXIT_CODE="0"]
