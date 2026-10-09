@@ -1,3 +1,1 @@
-#! /bin/bash
-
-echo "The script worked!"
+This is me writing to this file
