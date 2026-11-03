@@ -1,0 +1,38 @@
+
+bit - 0 or 1
+byte - 8 bits (2^8 = 256 combos)
+int - at least 16 bits or 2 bytes
+  - 2^16 combos - 65536 gt
+
+char - 8 bits or 1 byte (2&8 = 256 combos)
+[0, 255] -> unsigned char
+[-128, 127] -> signed char (char)
+[-1 * 2^63, 2^63 - 1] long long
+[0, 2^64 - 1] unsigned long long
+
+
+
+2^10 = 1024
+2^16 = 1024 * 2^6 (64)
+2^20 = 1024 * 1024 ~ 1 million
+
+
+2 bits
+00
+01
+10
+11
+
+3 bits
+000
+001
+010
+011
+100
+101
+110
+111
+
+
+
+
