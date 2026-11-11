@@ -2,13 +2,13 @@
 
 int main(){
 
-  int i = 17;
-  int* p = &i;
+  char i = 17;
+  char* p = &i;
 
   printf("sizeof(i) = %lu\n", sizeof(i));
-  printf("sizeof(int) = %lu\n", sizeof(int));
+  printf("sizeof(char) = %lu\n", sizeof(char));
   printf("sizeof(p) = %lu\n", sizeof(p));
-  printf("sizeof(int*) = %lu\n", sizeof(int*));
+  printf("sizeof(char*) = %lu\n", sizeof(char*));
 
   return 0;
 }
