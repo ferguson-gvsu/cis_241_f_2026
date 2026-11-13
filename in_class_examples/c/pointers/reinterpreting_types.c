@@ -3,7 +3,7 @@
 int main(){
   char str[] = "Hello world!";
   printf("String before: %s\n", str);
-  long long* p = str;
+  long long* p = (long long*)str;
   *p = 11644078981801286;
   printf("String after: %s\n", str);
   return 0;
