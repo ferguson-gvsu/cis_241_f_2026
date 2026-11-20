@@ -7,7 +7,8 @@ int main(){
     printf("Enter an integer: ");
     int result = scanf(" %d", &user_input);
     if(result == EOF) break;
-    printf("Received: %d\n", user_input);
+    if(result == 0) getchar();
+    else printf("Received: %d\n", user_input);
   }
   return 0;
 }
